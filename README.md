@@ -8,7 +8,7 @@ If you find our work useful to your research, please consider citing:
 ```
 @article{Jie20233DCMM,
   title={Cluster Our Hairstyles: A Novel Deep Differential Clustering Algorithm for Generating 3D Representative Hairstyles},
-  author={Pinyan Li , Yapeng Wang* and Xu Yang and Sio Kei Im and Jucheng Song and Jie Zhang*},
+  author={Pinyan Li, Yapeng Wang*, Xu Yang, Sio Kei Im, Jucheng Song and Jie Zhang*},
   year={2025},
   pages={1--14}
 }
