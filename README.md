@@ -1,6 +1,5 @@
 # HairstyleCluster
-
-The cluster-style names for clusters 1-18 are as follows: Short Clipper Cuts, Romantic Wave Elegance, Curly Texture Fade, Textured Lift (Collection), Short Undone Texture, Asian Flow Silhouette, Airy Feather Layer Cut, Sleek Long Straight, Loose Curl Gentlemen, Defined Curl and Crimp (Collection), Full-Head Geometric Braid, Flip Curl, Crown Braid Elegance, Pearl Gloss Straight, Rounded Fringe Bob, Neat Blunt Straight Bangs, Sleek Straight Bob and Romantic Wave Naturalism.
+We construct a 2D hairstyle dataset with 300 hairstyles, covering common daily hairstyles including braids, twists, and curls. The cluster-style names for clusters 1-18 are as follows: Short Clipper Cuts, Romantic Wave Elegance, Curly Texture Fade, Textured Lift (Collection), Short Undone Texture, Asian Flow Silhouette, Airy Feather Layer Cut, Sleek Long Straight, Loose Curl Gentlemen, Defined Curl and Crimp (Collection), Full-Head Geometric Braid, Flip Curl, Crown Braid Elegance, Pearl Gloss Straight, Rounded Fringe Bob, Neat Blunt Straight Bangs, Sleek Straight Bob and Romantic Wave Naturalism.
 
 <img src="https://github.com/Easy-Shu/HairstyleCluster/blob/main/HairstyleCluster1.jpg" width=100% alt="Demo"></img>
 <img src="https://github.com/Easy-Shu/HairstyleCluster/blob/main/HairstyleCluster2.jpg" width=100% alt="Demo"></img>
