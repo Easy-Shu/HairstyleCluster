@@ -2,7 +2,6 @@
 
 The cluster-style names for clusters 1-18 are as follows: Short Clipper Cuts, Romantic Wave Elegance, Curly Texture Fade, Textured Lift (Collection), Short Undone Texture, Asian Flow Silhouette, Airy Feather Layer Cut, Sleek Long Straight, Loose Curl Gentlemen, Defined Curl and Crimp (Collection), Full-Head Geometric Braid, Flip Curl, Crown Braid Elegance, Pearl Gloss Straight, Rounded Fringe Bob, Neat Blunt Straight Bangs, Sleek Straight Bob and Romantic Wave Naturalism.
 
-<img src="https://github.com/Easy-Shu/HeadUV-UNet/blob/main/Figure13s.jpg" width=100% alt="Demo"></img>
 
 ## Citation
 If you find our work useful to your research, please consider citing:
